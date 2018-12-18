@@ -1,2 +1,2 @@
-## Jakenpo/Rock-Paper-Scissors
+## Jankenpon/Rock-Paper-Scissors
 https://jankenpon.herokuapp.com/
